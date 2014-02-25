@@ -1,9 +1,9 @@
-#qWorkflow Library
+#zWorkflow Library
 
 ##A. Introduction
-This is an AppleScript library for creating workflows with Alfred 2. This library provides an object-oriented class with functions for working with plist settings files, reading and writing data to files, generating Alfred feedback results, requesting remote data, and more (make sure you read the [FULL DOCUMENTATION](https://github.com/qlassiqa/qWorkflow/blob/master/documentation/Documentation.md) to get a grip on how to properly use this library).
+This is a fork of an AppleScript library for creating workflows with Alfred 2. This library provides an object-oriented class with functions for working with plist settings files, reading and writing data to files, generating Alfred feedback results, requesting remote data, and more (make sure you read the [FULL DOCUMENTATION](https://github.com/qlassiqa/qWorkflow/blob/master/documentation/Documentation.md) to get a grip on how to properly use this library).
 
-It was originally created by [David Ferguson using PHP](https://github.com/jdfwarrior/Workflows), and was entirely rewritten by me using AppleScript to provide the same functionality to all my fellow AppleScript lovers.
+The original library was a port of [David Ferguson's PHP library](https://github.com/jdfwarrior/Workflows) by [qlassiqa](https://github.com/qlassiqa/qWorkflow). This fork adds User-Interaction Helper Functions to the default utilities.
 
 So you may be asking yourself: 
 
